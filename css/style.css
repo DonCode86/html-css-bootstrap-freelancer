@@ -38,11 +38,11 @@ body {
     /* width: 200px; */
 }
 
-.about_section, .contact-me {
+/* .about_section, .contact-me {
     text-align: center;
     width: 768px;
     margin: auto;
-}
+} */
 
 .contact-me {
     height: 350px;
