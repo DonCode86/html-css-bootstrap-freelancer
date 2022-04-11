@@ -20,23 +20,18 @@ body {
 }
 
 .hero_container {
-    margin: auto;
-    width: 768px;
+    text-align: center;
     height: 250px;
-    background-color: green;
-    text-align: center;
 }
 
-.portfolio_section {
-    background-color: gray;
-    text-align: center;
-    height: 500px;
-}
-
-.portfolio_img, .about_col {
+.hero_img {
     height: 150px;
-    /* width: 200px; */
 }
+
+.portfolio_section img{
+    width: 300px;
+}
+
 
 /* .about_section, .contact-me {
     text-align: center;
