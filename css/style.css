@@ -27,7 +27,6 @@ body {
 
 .contact-me {
     height: 350px;
-    background-color: yellow;
 }
 
 .container-fluid.about {
@@ -79,5 +78,9 @@ body {
 }
 
 .portfolio_section .star-line {
+    background-color: #000;
+}
+
+.contact-me .star-line {
     background-color: #000;
 }
