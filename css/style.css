@@ -14,13 +14,11 @@ body {
 }
 
 .hero_section {
-    height: 250px;
     background-color: #1abc9c;
 }
 
 .hero_container {
     text-align: center;
-    height: 250px;
 }
 
 .hero_img {
@@ -60,4 +58,15 @@ body {
 
 .portfolio_section img {
     border-radius: 10px;
+}
+
+.green-text {
+    color: #1abc9c;
+}
+
+.social-rounded-img {
+    font-size: 30px;
+    margin: 10px;
+    /* border: 1px solid #fff;
+    border-radius: 50%; */
 }
