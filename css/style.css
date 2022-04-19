@@ -36,6 +36,10 @@ body {
 .contact-me {
     height: 350px;
 }
+
+.portfolio_section img {
+    border-radius: 10px;
+}
 /*------------------
     COMMONS
 ------------------*/
@@ -86,6 +90,7 @@ body {
     align-items: center;
     display: none;
     cursor: pointer;
+    border-radius: 10px;
 }
 
 .img-portfolio:hover .overlay {
@@ -103,10 +108,6 @@ FOOTER
 
 .bottom-footer {
     background-color: #2c3e50;
-}
-
-.portfolio_section img {
-    border-radius: 10px;
 }
 
 .social-rounded-img {
